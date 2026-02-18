@@ -1,0 +1,7 @@
+{
+  "name": "BREADS MINDS Mobile Application",
+  "description": "A comprehensive monitoring and evaluation tool for the MINDS mental health initiative, enabling district coordinators to track beneficiary progress and BREADS coordinators to analyze program impact across Karnataka.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
